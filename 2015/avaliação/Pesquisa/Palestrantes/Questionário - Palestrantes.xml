@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="736931">
+  <title>Palestrantes</title>
+  <investigator/>
+  <dataCollector/>
+  <questionnaireInfo>
+    <position>before</position>
+    <text>&lt;p&gt;&#13;
+	Pedimos a gentileza de responder algumas questões para podermos analisar o Festival Latino-americano de Instalação de Software, na qual você participou.&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	Sua Opinião é muito importante!&lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <questionnaireInfo>
+    <position>after</position>
+    <text>&lt;p&gt;&#13;
+	Muito Obrigado!&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	
+&#13;
+	Sua opinião foi muito importante para podermos melhorar os eventos de Software Livre de Curitiba.&lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <section id="3">
+    <sectionInfo>
+      <position>title</position>
+      <text>Pesquisa Palestrantes</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>O que achou do sistema de submissão de trabalhos?</text>
+      <response varName="Perg001">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Perg001_comment">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Você foi bem recebido/a no evento?</text>
+      <response varName="Perg002">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Você mora em Curitiba?</text>
+      <response varName="Perg003">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Você teve algum problema com seu traslado?</text>
+      <response varName="Perg004">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>O que você achou das instalações do evento?</text>
+      <response varName="Perg005">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="Perg005_comment">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Você teve alguma dificuldade para se hospedar no hotel?</text>
+      <response varName="Perg006">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Considerando todos os aspectos locais do evento, nos dê sua opinião:&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	O que você achou do evento?&lt;/p&gt;</text>
+      <response varName="Perg007">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Você teve acesso a todos os recursos necessários para sua apresentação?</text>
+      <response varName="Perg008">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Se não, quais recursos faltaram?</text>
+      <response varName="Perg009">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Durante o evento, você teve alguma dificuldade para se alimentar?</text>
+      <response varName="Perg010">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+</questionnaire>

@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>177</DBVersion>
+ <languages>
+  <language>es-AR</language>
+  <language>en</language>
+  <language>pt-BR</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Ótimo]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Bom]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Normal]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Regular]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Ruim]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Ótimo]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Bom]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Normal]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Regular]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Ruim]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Mui Bueno]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Bueno]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Normal]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Regular]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Malo]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Great]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Nice]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Normal]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Regular]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Bad]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Ótimo]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Bom]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Normal]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Regular]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Ruim]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Ótimo]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Bom]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Normal]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Regular]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Ruim]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>scenario</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[1]]></cid>
+    <qid><![CDATA[6]]></qid>
+    <cqid><![CDATA[4]]></cqid>
+    <cfieldname><![CDATA[736931X3X4]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[N]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[2]]></cid>
+    <qid><![CDATA[5]]></qid>
+    <cqid><![CDATA[4]]></cqid>
+    <cfieldname><![CDATA[736931X3X4]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[N]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[10]]></cid>
+    <qid><![CDATA[29]]></qid>
+    <cqid><![CDATA[28]]></cqid>
+    <cfieldname><![CDATA[736931X3X28]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[N]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+  </rows>
+ </conditions>
+ <defaultvalues>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>sqid</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>specialtype</fieldname>
+   <fieldname>defaultvalue</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[pt-BR]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[(s)Sim
+(n)Não]]></defaultvalue>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[es-AR]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[(s)Si
+(n)No]]></defaultvalue>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <scale_id><![CDATA[0]]></scale_id>
+    <sqid><![CDATA[0]]></sqid>
+    <language><![CDATA[en]]></language>
+    <specialtype/>
+    <defaultvalue><![CDATA[(y)Yes
+(n)No]]></defaultvalue>
+   </row>
+  </rows>
+ </defaultvalues>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[3]]></gid>
+    <sid><![CDATA[736931]]></sid>
+    <group_name><![CDATA[Pesquisa Palestrantes]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[pt-BR]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[3]]></gid>
+    <sid><![CDATA[736931]]></sid>
+    <group_name><![CDATA[Pesquisa Palestrantes]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[es-AR]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[3]]></gid>
+    <sid><![CDATA[736931]]></sid>
+    <group_name><![CDATA[Pesquisa Palestrantes]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[O]]></type>
+    <title><![CDATA[Perg001]]></title>
+    <question><![CDATA[O que achou do sistema de submissão de trabalhos?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[O]]></type>
+    <title><![CDATA[Perg001]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="es"><span class="hps">1- <span class="short_text" id="result_box" lang="es"><span class="hps">¿</span></span>Les gustaba</span> <span class="hps">el sistema de</span> <span class="hps">envío de trabajos</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[2]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[O]]></type>
+    <title><![CDATA[Perg001]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="es"><span class="hps">1- </span></span>What did you think about work submission system?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[3]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg002]]></title>
+    <question><![CDATA[Você foi bem recebido/a no evento?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[3]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg002]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="es"><span class="hps">2 - <span class="short_text" id="result_box" lang="es"><span class="hps">¿</span></span>Usted fue</span> <span class="hps">bien recibido</span>/a <span class="hps">en el evento?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[3]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg002]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="en"><span class="hps">2 - You were</span> <span class="hps">well received</span> <span class="hps">at the event?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[4]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg003]]></title>
+    <question><![CDATA[Você mora em Curitiba?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[4]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg003]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="es"><span class="hps">3 - ¿<span class="short_text" id="result_box" lang="es"><span class="hps">usted </span></span>vive en</span> <span class="hps">Curitiba</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[4]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg003]]></title>
+    <question><![CDATA[3 - Do you live in Curitiba?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[5]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg006]]></title>
+    <question><![CDATA[Você teve alguma dificuldade para se hospedar no hotel?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X4.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[5]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg006]]></title>
+    <question><![CDATA[<div id="gt-src-tools">
+	<div id="gt-src-tools-l">
+		<div id="gt-input-tool" style="display: inline-block;">
+			<div dir="ltr" style="zoom:1">
+				<span id="result_box" lang="es"><span class="hps">6 - ¿Ha tenido alguna</span> <span class="hps">dificultad para permanecer</span> <span class="hps">en el hotel</span><span>?</span></span></div>
+		</div>
+	</div>
+</div>
+<p>
+	 </p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X4.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[5]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg006]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="en"><span class="short_text" id="result_box" lang="en"><span class="hps"><span id="result_box" lang="es"><span class="hps">6 - </span></span>Have you had any</span> <span class="hps">trouble</span> <span class="hps">staying at the hotel</span><span>?</span></span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X4.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[6]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg004]]></title>
+    <question><![CDATA[Você teve algum problema com seu traslado?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X4.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[6]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg004]]></title>
+    <question><![CDATA[<span id="result_box" lang="es"><span class="hps">4 - ¿Ha tenido</span> <span class="hps">problemas con</span> <span class="hps">el servicio de transporte</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X4.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[6]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg004]]></title>
+    <question><![CDATA[4 - Do you h<span class="short_text" id="result_box" lang="en"><span class="hps">ad</span> any <span class="hps">problems with the</span> <span class="hps">shuttle</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X4.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[7]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg010]]></title>
+    <question><![CDATA[Durante o evento, você teve alguma dificuldade para se alimentar?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[7]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg010]]></title>
+    <question><![CDATA[<div id="gt-src-tools">
+	<div id="gt-src-tools-l">
+		<div id="gt-input-tool" style="display: inline-block;">
+			<div dir="ltr" style="zoom:1">
+				<span id="result_box" lang="es"><span class="hps">10 - Durante el evento,</span> <span class="hps">¿tenía alguna</span> <span class="hps">dificultad para alimentarse</span><span>?</span></span></div>
+		</div>
+	</div>
+</div>
+<p>
+	 </p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[7]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg010]]></title>
+    <question><![CDATA[<span id="result_box" lang="en"><span class="hps">10 - During the event,</span> <span class="hps">did you have any</span> <span class="hps">difficulty feeding</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[O]]></type>
+    <title><![CDATA[Perg005]]></title>
+    <question><![CDATA[O que você achou das instalações do evento?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[O]]></type>
+    <title><![CDATA[Perg005]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="es"><span class="hps">5 - ¿Qué piensas</span> <span class="hps">de las</span> <span class="hps">instalaciones para eventos</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[8]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[O]]></type>
+    <title><![CDATA[Perg005]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="en"><span class="hps">5 - What did you think</span> <span class="hps">of the event</span> <span class="hps">facilities?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[9]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Perg007]]></title>
+    <question><![CDATA[<p>
+	Considerando todos os aspectos locais do evento, nos dê sua opinião:</p>
+<p>
+	O que você achou do evento?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[9]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Perg007]]></title>
+    <question><![CDATA[<span id="result_box" lang="es"><span class="hps">7 - Teniendo en cuenta</span> <span class="hps">todos los aspectos del</span> <span class="hps">evento local,</span> <span class="hps">nos da</span> <span class="hps">su opinión:</span><br />
+<br />
+<span class="hps">¿Qué piensas</span> <span class="hps">sobre el evento</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[9]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Perg007]]></title>
+    <question><![CDATA[7 - Considering all aspects of local event, give us your opinion:<br />
+<br />
+What did you think about event?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg008]]></title>
+    <question><![CDATA[Você teve acesso a todos os recursos necessários para sua apresentação?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[1]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg008]]></title>
+    <question><![CDATA[<span id="result_box" lang="es"><span class="hps">8 - <span class="short_text" id="result_box" lang="es"><span class="hps">¿</span></span>Usted tuvo</span> <span class="hps">acceso a todos</span> <span class="hps">los recursos necesarios para</span> <span class="hps">su presentación?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[1]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Perg008]]></title>
+    <question><![CDATA[<span id="result_box" lang="en"><span class="hps">8 - You</span> <span class="hps">had access to all</span> <span class="hps">the resources needed</span> <span class="hps">for</span> <span class="hps">your presentation?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[1]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Perg009]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="en"><span class="hps">9 - If not,</span> <span class="hps">what features</span> <span class="hps">are missing</span><span>?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X28.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Perg009]]></title>
+    <question><![CDATA[Se não, quais recursos faltaram?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[pt-BR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X28.NAOK == "N"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[736931]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[Perg009]]></title>
+    <question><![CDATA[<span class="short_text" id="result_box" lang="es"><span class="hps">9 - Si</span> <span class="hps">no, ¿qué</span> <span class="hps">características</span> <span class="hps">faltan?</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[es-AR]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((736931X3X28.NAOK == "N"))]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[736931]]></sid>
+    <admin><![CDATA[Administrador]]></admin>
+    <adminemail><![CDATA[leonardo@leonardorocha.eti.br]]></adminemail>
+    <anonymized><![CDATA[N]]></anonymized>
+    <faxto/>
+    <format><![CDATA[A]]></format>
+    <savetimings><![CDATA[N]]></savetimings>
+    <template><![CDATA[default]]></template>
+    <language><![CDATA[pt-BR]]></language>
+    <additional_languages><![CDATA[es-AR en ]]></additional_languages>
+    <datestamp><![CDATA[Y]]></datestamp>
+    <usecookie><![CDATA[Y]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[9]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[N]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[Y]]></ipaddr>
+    <refurl><![CDATA[Y]]></refurl>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[Y]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[D]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[leonardo@leonardorocha.eti.br]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[Y]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[Y]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <questionindex><![CDATA[0]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle><![CDATA[0]]></googleanalyticsstyle>
+    <googleanalyticsapikey/>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[736931]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[en]]></surveyls_language>
+    <surveyls_title/>
+    <surveyls_url/>
+    <surveyls_email_invite_subj><![CDATA[Invitation to participate in a survey]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+you have been invited to participate in a survey.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}<br />
+<br />
+If you are blacklisted but want to participate in this survey and want to receive invitations please click the following link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Reminder to participate in a survey]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+Recently we invited you to participate in a survey.<br />
+<br />
+We note that you have not yet completed the survey, and wish to remind you that the survey is still available should you wish to take part.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Survey registration confirmation]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+You, or someone using your email address, have registered to participate in an online survey titled {SURVEYNAME}.<br />
+<br />
+To complete this survey, click on the following URL:<br />
+<br />
+{SURVEYURL}<br />
+<br />
+If you have any questions about this survey, or if you did not register to participate and believe this email is in error, please contact {ADMINNAME} at {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation of your participation in our survey]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+this email is to confirm that you have completed the survey titled {SURVEYNAME} and your response has been saved. Thank you for participating.<br />
+<br />
+If you have any further questions about this email, please contact {ADMINNAME} on {ADMINEMAIL}.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[9]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Response submission for survey {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to reload the survey:<br />
+{RELOADURL}<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Response submission for survey {SURVEYNAME} with results]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to reload the survey:<br />
+{RELOADURL}<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+The following answers were given by the participant:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+   <row>
+    <surveyls_survey_id><![CDATA[736931]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[es-AR]]></surveyls_language>
+    <surveyls_title/>
+    <surveyls_url/>
+    <surveyls_email_invite_subj><![CDATA[Invitation to participate in a survey]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+you have been invited to participate in a survey.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}<br />
+<br />
+If you are blacklisted but want to participate in this survey and want to receive invitations please click the following link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Reminder to participate in a survey]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+Recently we invited you to participate in a survey.<br />
+<br />
+We note that you have not yet completed the survey, and wish to remind you that the survey is still available should you wish to take part.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Survey registration confirmation]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+You, or someone using your email address, have registered to participate in an online survey titled {SURVEYNAME}.<br />
+<br />
+To complete this survey, click on the following URL:<br />
+<br />
+{SURVEYURL}<br />
+<br />
+If you have any questions about this survey, or if you did not register to participate and believe this email is in error, please contact {ADMINNAME} at {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation of your participation in our survey]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+this email is to confirm that you have completed the survey titled {SURVEYNAME} and your response has been saved. Thank you for participating.<br />
+<br />
+If you have any further questions about this email, please contact {ADMINNAME} on {ADMINEMAIL}.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[5]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Response submission for survey {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to reload the survey:<br />
+{RELOADURL}<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Response submission for survey {SURVEYNAME} with results]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to reload the survey:<br />
+{RELOADURL}<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+The following answers were given by the participant:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+   <row>
+    <surveyls_survey_id><![CDATA[736931]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[pt-BR]]></surveyls_language>
+    <surveyls_title><![CDATA[Palestrantes]]></surveyls_title>
+    <surveyls_description><![CDATA[Pesquisa realizada com os/as Palestrantes sobre o FLISOL - Festival Latino-americano de Instalação de Software Livre realizado no dia 25 de abril de 2015.]]></surveyls_description>
+    <surveyls_welcometext><![CDATA[<p>
+	Pedimos a gentileza de responder algumas questões para podermos analisar o Festival Latino-americano de Instalação de Software, na qual você participou.</p>
+<p>
+	&nbsp;</p>
+<p>
+	Sua Opinião é muito importante!</p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>
+	Muito Obrigado!</p>
+<p>
+	<br />
+	Sua opinião foi muito importante para podermos melhorar os eventos de Software Livre de Curitiba.</p>
+]]></surveyls_endtext>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Convite para participar de um questionário]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Caro(a)  {FIRSTNAME},<br />
+Você foi convidado(a) a participar de uma pesquisa.<br />
+Título da Pesquisa: "{SURVEYNAME}"<br />
+Descrição da Pesquisa: "{SURVEYDESCRIPTION}"<br />
+<br />
+Para responder ao questionário, clique no link abaixo:<br />
+{SURVEYURL}<br />
+<br />
+---------------------------------------------<br />
+Atenciosamente,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+Se você não deseja participar desta pesquisa e não deseja receber mais convites, por favor clique no seguinte link:<br />
+{OPTOUTURL}<br />
+<br />
+Se você está bloqueado mas deseja participar desta pesquisa e quer receber convites, por favor, clique no seguinte link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Lembrete para participar da pesquisa]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Caro(a) {FIRSTNAME}<br />
+<br />
+Recentemente, nós lhe convidamos para participar de uma pesquisa. Notamos que ela ainda não foi finalizada e desejamos lembrar-lhe que o questionário ainda está disponível caso deseje completá-lo.<br />
+<br />
+O título da pesquisa é:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+Para participar, por favor utilize o link abaixo.<br />
+<br />
+Atenciosamente,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Clique no link para responder o questionário:<br />
+{SURVEYURL}<br />
+<br />
+Se você não deseja participar desta pesquisa e não deseja receber mais convites, por favor clique no seguinte link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Confirmação de inscrição na pesquisa]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Caro(a) {FIRSTNAME},<br />
+<br />
+Você ou alguém usando o seu e-mail inscreveu-se para participar da pesquisa on-line de nome {SURVEYNAME}.<br />
+Para responder o questionário, por favor, clique no link abaixo:<br />
+<br />
+{SURVEYURL}<br />
+<br />
+Caso haja alguma dúvida ou não tenha sido você a fazer a inscrição, por favor, entre em contato com {ADMINNAME}, através do e-mail {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmação da sua particição no questionário]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Caro {FIRSTNAME},<br />
+ <br />
+este e-mail é para confirmar que você concluiu a pesquisa intitulada {SURVEYNAME} e sua resposta foi salva. Obrigado por participar. <br />
+ <br />
+Se você tem alguma dúvida sobre este e-mail, por favor, entre em contato com {ADMINNAME} em {ADMINEMAIL}.<br />
+ <br />
+ Atenciosamente,<br />
+ <br />
+ {ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[5]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Envio de resposta para o questionário {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Olá, <br />
+<br />
+Uma nova resposta foi enviada para a sua pesquisa '{SURVEYNAME}'. <br />
+<br />
+Clique no link abaixo para recarregar a pesquisa: <br />
+{RELOADURL}<br />
+<br />
+Clique no link abaixo para ver a resposta individual: <br />
+{VIEWRESPONSEURL}<br />
+<br />
+Clique no link abaixo para editar a resposta individual: <br />
+{EDITRESPONSEURL}<br />
+<br />
+Ver estatísticas clicando aqui: <br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Envio de resposta para pesquisa {SURVEYNAME} com resultados]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Olá, <br />
+<br />
+Uma nova resposta foi enviada para a sua pesquisa '{SURVEYNAME}'. <br />
+<br />
+Clique no link abaixo para acessar a pesquisa: <br />
+{RELOADURL} <br />
+<br />
+Clique no link abaixo para ver a resposta individualmente: <br />
+{VIEWRESPONSEURL} <br />
+<br />
+Clique no link abaixo para editar a resposta individual: <br />
+{EDITRESPONSEURL} <br />
+<br />
+Ver estatísticas clicando aqui: <br />
+{STATISTICSURL}<br />
+<br />
+<br />
+As respostas foram dadas pelo participante: <br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[1]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+</document>

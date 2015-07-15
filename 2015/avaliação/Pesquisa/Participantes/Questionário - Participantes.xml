@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="819229">
+  <title>Participantes</title>
+  <investigator/>
+  <dataCollector/>
+  <questionnaireInfo>
+    <position>before</position>
+    <text>&lt;p&gt;&#13;
+	Pedimos a gentileza de responder algumas questões para podermos analisar a 11ª Edicação do FLISOL - Fórum Lationo-americano de instalação de Software Livre que ocorreu no dia 25 de abril de 2015 em Curitiba.&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	Sua Opinião é muito importante!&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	Perguntas com " * " são obrigatórias para resposta.&lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <questionnaireInfo>
+    <position>after</position>
+    <text>&lt;p&gt;&#13;
+	Muito Obrigado!&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	
+&#13;
+	Sua opinião foi muito importante para podermos melhorar os eventos de Software Livre de Curitiba.&lt;/p&gt;</text>
+    <administration>self</administration>
+  </questionnaireInfo>
+  <section id="4">
+    <sectionInfo>
+      <position>title</position>
+      <text>Dados Gerais</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Qual sua idade?</text>
+      <response varName="G01">
+        <fixed>
+          <category>
+            <label>Menor de 18 Anos</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>De 18 à 25 Anos</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>De 26 à 30 Anos</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>De 31 à 40 Anos</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Maior de 40 Anos</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Para fins estatísticos, de acordo com identificação civil, indique qual é o seu sexo:</text>
+      <response varName="G02">
+        <fixed>
+          <category>
+            <label>Masculino</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Feminino</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Sou contra categorizações por sexo</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Prefiro não responder</label>
+            <value>A4</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Indique qual a cidade onde reside:</text>
+      <response varName="G03">
+        <fixed>
+          <category>
+            <label>Curitiba</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Outros</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="G03other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Encontrou dificuldade para se hospedar?</text>
+      <response varName="G04">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Qual é a sua profissão/ocupação?</text>
+      <response varName="G05">
+        <fixed>
+          <category>
+            <label>Estudante/Acadêmico(a)</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Profissional</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Professor(a)</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Empresário(a)</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Outros</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="G05other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Onde você estuda?</text>
+      <response varName="G06">
+        <fixed>
+          <category>
+            <label>UTFPR</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>UFPR</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>PUCPR</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>IFPR</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Outros</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="G06other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Profissional de qual área?</text>
+      <response varName="G07">
+        <fixed>
+          <category>
+            <label>Manutenção de computadores</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Serviços para sistemas proprietários</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Serviços para software livre</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Outros</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="G07other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="5">
+    <sectionInfo>
+      <position>title</position>
+      <text>Sobre as Inscrições</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>O que achou do Sistema de Inscrições para o Evento?</text>
+      <response varName="I01">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Você se inscreveu no dia do Evento?</text>
+      <response varName="I02">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>O que achou do processo para se inscrever no local?</text>
+      <response varName="I03">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="I03_comment">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;
+	O que achou do Material distribuidos aos participantes? &lt;/p&gt;
+&lt;p&gt;
+	(Pasta/Crachá)&lt;/p&gt;</text>
+      <response varName="I04">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>O que achou da divulgação do evento?</text>
+      <response varName="l05">
+        <fixed>
+          <category>
+            <label>Ótima</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Boa</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>A4</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Como você soube do evento?</text>
+      <response varName="l06">
+        <fixed>
+          <category>
+            <label>Redes Sociais</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Internet</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Faculdade/Universidade</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Rádio</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Jornal</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>TV</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Amigos/as</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>Listas de emails</label>
+            <value>A8</value>
+          </category>
+          <category>
+            <label>Outros</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="l06other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Considerando esta etapa de inscrições, por favor, nos dê sua opinião/crítica/sugestão do que pode melhorar:</text>
+      <response varName="l08">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="6">
+    <sectionInfo>
+      <position>title</position>
+      <text>Sobre as Palestras</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>O que achou dos assuntos tratados/apresentados?</text>
+      <response varName="P01">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>O que achou da estrutura das salas oferecidas?</text>
+      <response varName="P02">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Numa escala de 1 a 10, onde 1 é a pior nota e 10 é a melhor nota, por favor, avalie as palestras básicas:</text>
+      <subQuestion varName="P03_SQ001">
+        <text>O poder do LibreOffice</text>
+      </subQuestion>
+      <subQuestion varName="P03_SQ002">
+        <text>Desenho Vetorial com Inkscape</text>
+      </subQuestion>
+      <subQuestion varName="P03_SQ003">
+        <text>Blender 3D e o Brasil, o que os brasileiros estão fazendo com o Blender</text>
+      </subQuestion>
+      <subQuestion varName="P03_SQ004">
+        <text>Empacotamento de aplicações Ruby on Rails no Linux</text>
+      </subQuestion>
+      <subQuestion varName="P03_SQ005">
+        <text>Lançamento do Debian 8 - Conheça as novidades da nova versão do Debian (Jessie)</text>
+      </subQuestion>
+      <subQuestion varName="P03_SQ006">
+        <text>Como contribuir com projetos de Software Livre</text>
+      </subQuestion>
+      <subQuestion varName="P03_SQ007">
+        <text>RPM e DEB - Afinal, o que escolher?</text>
+      </subQuestion>
+      <response varName="P03">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>6</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>7</label>
+            <value>7</value>
+          </category>
+          <category>
+            <label>8</label>
+            <value>8</value>
+          </category>
+          <category>
+            <label>9</label>
+            <value>9</value>
+          </category>
+          <category>
+            <label>10</label>
+            <value>10</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Numa escala de 1 a 10, onde 1 é a pior nota e 10 é a melhor nota, por favor, avalie as palestras técnicas:</text>
+      <subQuestion varName="P04_SQ001">
+        <text>PHP Profissional - Padrões e Ferramentas</text>
+      </subQuestion>
+      <subQuestion varName="P04_SQ002">
+        <text>Não se repita - com Django Generic Views</text>
+      </subQuestion>
+      <subQuestion varName="P04_SQ003">
+        <text>EFI? UEFI? GPT? Que?</text>
+      </subQuestion>
+      <subQuestion varName="P04_SQ004">
+        <text>Pentaho Data Integration - Integração e Migração e Dados com ETL Open Source</text>
+      </subQuestion>
+      <subQuestion varName="P04_SQ005">
+        <text>Customizando uma plataforma de CRM Open Source - SugarCRM</text>
+      </subQuestion>
+      <subQuestion varName="P04_SQ006">
+        <text>GIT - Esse é o cara!</text>
+      </subQuestion>
+      <response varName="P04">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+          <category>
+            <label>6</label>
+            <value>6</value>
+          </category>
+          <category>
+            <label>7</label>
+            <value>7</value>
+          </category>
+          <category>
+            <label>8</label>
+            <value>8</value>
+          </category>
+          <category>
+            <label>9</label>
+            <value>9</value>
+          </category>
+          <category>
+            <label>10</label>
+            <value>10</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Numa escala de 1 a 5, onde 1 é a pior nota e 5 a melhor nota, avalie:&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	O/a palestrante demonstrou ter domínio do assunto?&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	 &lt;/p&gt;</text>
+      <response varName="P05">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Numa escala de 1 a 5, onde 1 é a pior nota e 5 a melhor nota, avalie:&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	A forma de apresentação se mostrou adequada ao conteúdo?&lt;/p&gt;</text>
+      <response varName="P06">
+        <fixed>
+          <category>
+            <label>1</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>2</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>3</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>4</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>5</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Gostaríamos de sua opinião/crítica/sugestão a respeito das palestras:</text>
+      <response varName="P07">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="9">
+    <sectionInfo>
+      <position>title</position>
+      <text>Install Fest</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Você participou do Install Fest?</text>
+      <response varName="l001">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Você é usuário de qual Sistema Operacional?</text>
+      <response varName="I002">
+        <fixed>
+          <category>
+            <label>GNU/Linux</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Unix</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Solaris</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>FreeBSD</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Microsoft Windows</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Outros</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="I002other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Se usuário GNU/Linux, qual distro você usa?</text>
+      <response varName="I003">
+        <fixed>
+          <category>
+            <label>Debian</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Ubuntu</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Trisquel</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>OpenSUSE</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>CentOS</label>
+            <value>A5</value>
+          </category>
+          <category>
+            <label>Manjaro</label>
+            <value>A6</value>
+          </category>
+          <category>
+            <label>Mandriva</label>
+            <value>A7</value>
+          </category>
+          <category>
+            <label>Outros</label>
+            <value>-oth-</value>
+            <contingentQuestion varName="I003other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Em qual(is) software(s) você tem interesse?</text>
+      <response varName="SQ001">
+        <fixed>
+          <category>
+            <label>Inkscape</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ002">
+        <fixed>
+          <category>
+            <label>Gimp</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ003">
+        <fixed>
+          <category>
+            <label>Audacity</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ004">
+        <fixed>
+          <category>
+            <label>MySql</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ005">
+        <fixed>
+          <category>
+            <label>LibreOffice Writer</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ006">
+        <fixed>
+          <category>
+            <label>LibreOffice Calc</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ007">
+        <fixed>
+          <category>
+            <label>LibreOffice Impress</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ008">
+        <fixed>
+          <category>
+            <label>LibreOffice Base</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ009">
+        <fixed>
+          <category>
+            <label>LibreOffice Project</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ010">
+        <fixed>
+          <category>
+            <label>Shellscript</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ011">
+        <fixed>
+          <category>
+            <label>Postgresql</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ012">
+        <fixed>
+          <category>
+            <label>iceweasel</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ013">
+        <fixed>
+          <category>
+            <label>Firefox</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ014">
+        <fixed>
+          <category>
+            <label>Google Chrome</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ015">
+        <fixed>
+          <category>
+            <label>Empathy</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ016">
+        <fixed>
+          <category>
+            <label>Pidgin</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ017">
+        <fixed>
+          <category>
+            <label>LDAP</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ018">
+        <fixed>
+          <category>
+            <label>Samba</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ019">
+        <fixed>
+          <category>
+            <label>Bind</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ020">
+        <fixed>
+          <category>
+            <label>Firewall IPTable</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ021">
+        <fixed>
+          <category>
+            <label>TLP - Autonomia de bateria</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ022">
+        <fixed>
+          <category>
+            <label>Bluetooth</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ023">
+        <fixed>
+          <category>
+            <label>Wifi</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ024">
+        <fixed>
+          <category>
+            <label>PHP</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ025">
+        <fixed>
+          <category>
+            <label>HTML 5</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ026">
+        <fixed>
+          <category>
+            <label>CSS</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="I004T">
+        <fixed>
+          <category>
+            <label>Outros</label>
+            <value>1</value>
+            <contingentQuestion varName="I004other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Que nota você daria ao atendimento do instalador?</text>
+      <response varName="l005">
+        <fixed>
+          <category>
+            <label>Excelente</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Ótimo</label>
+            <value>A2</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>A3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>A4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>A5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Todos os softwares livres que você queria foram instalados?</text>
+      <response varName="l006">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Se não, qual(is) faltou(ram)?</text>
+      <response varName="l007">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Se sim, qual(is) foi(ram) instalado(s)?</text>
+      <response varName="l008">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Você instalou um Sistema Operacional GNU/Linux?</text>
+      <response varName="l009">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Qual?</text>
+      <response varName="SQ001">
+        <fixed>
+          <category>
+            <label>Debian</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ002">
+        <fixed>
+          <category>
+            <label>Ubuntu</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ003">
+        <fixed>
+          <category>
+            <label>Trisquel</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ004">
+        <fixed>
+          <category>
+            <label>Mandriva</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ005">
+        <fixed>
+          <category>
+            <label>OpenSUSE</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="SQ006">
+        <fixed>
+          <category>
+            <label>CentOS</label>
+            <value>1</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="l010T">
+        <fixed>
+          <category>
+            <label>Outros</label>
+            <value>1</value>
+            <contingentQuestion varName="l010other">
+              <text>Outros</text>
+              <length>24</length>
+            </contingentQuestion>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Houve algum problema com algum hardware de seu computador?</text>
+      <response varName="l011">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Descreva o problema</text>
+      <response varName="l012">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Informe o nome do instalador que te atendeu</text>
+      <response varName="l013">
+        <free>
+          <format>text</format>
+          <length>24</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>Com suas próprias palavras, avalie o instalador que te atendeu</text>
+      <response varName="l014">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="7">
+    <sectionInfo>
+      <position>title</position>
+      <text>Sobre os Minicursos</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Você participou dos minicursos?</text>
+      <response varName="M01">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>O que achou dos assuntos oferecidos?</text>
+      <response varName="M02">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>O que achou da estrutura dos laboratórios?</text>
+      <response varName="M03">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>O que achou do sistema de inscrição para os Mini Cursos?</text>
+      <response varName="M04">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Considerando que o evento tem como propósito - promover o uso de software livre e a integração de comunidades de usuários de software livre em todos os países da América Latina, e, considerando a programação desta 11ª edição do FLISOL em Curitiba, você recomendaria outras oficinas? Se sim, Quais?</text>
+      <response varName="M05">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>A1</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>A2</value>
+          </category>
+        </fixed>
+      </response>
+      <response varName="M05_comment">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+  </section>
+  <section id="8">
+    <sectionInfo>
+      <position>title</position>
+      <text>Opiniões Finais</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>O que achou do Horario do Evento?</text>
+      <response varName="O01">
+        <fixed>
+          <category>
+            <label>Ótimo</label>
+            <value>1</value>
+          </category>
+          <category>
+            <label>Bom</label>
+            <value>2</value>
+          </category>
+          <category>
+            <label>Normal</label>
+            <value>3</value>
+          </category>
+          <category>
+            <label>Regular</label>
+            <value>4</value>
+          </category>
+          <category>
+            <label>Ruim</label>
+            <value>5</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Você gostaria de ajudar a organizar os próximos eventos de softwrae livre em Curitiba?</text>
+      <response varName="O02">
+        <fixed>
+          <category>
+            <label>Sim</label>
+            <value>Y</value>
+          </category>
+          <category>
+            <label>Não</label>
+            <value>N</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Por favor, informe seu e-mail:&lt;/p&gt;&#13;
+&lt;p&gt;&#13;
+	&lt;em&gt;(favor, digitar todas as informações em caixa baixa)&lt;/em&gt;&lt;/p&gt;</text>
+      <response varName="O03">
+        <free>
+          <format>text</format>
+          <length>24</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;&#13;
+	Por favor, nos deixe sua opinião, de modo geral, a respeito do evento.&lt;/p&gt;</text>
+      <response varName="O04">
+        <free>
+          <format>longtext</format>
+          <length>40</length>
+          <label></label>
+        </free>
+      </response>
+    </question>
+  </section>
+</questionnaire>
